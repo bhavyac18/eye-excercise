@@ -1,2 +1,2 @@
-# eye-excercise
+# Eye Excercise
 Eye Movement Excercise
