@@ -10,6 +10,8 @@ This application features a pair of animated eyes that follow the movement of th
 ### How to Run
 To get started with the Eye Movement Excercise, follow these steps:
 
-1.Clone or download this repository to your local machine.
-2.Open the index.html file in your web browser.
-3.You can pause eye movement using 'Stop' button.
+<ul>
+  <li>Clone or download this repository to your local machine.</li>
+  <li>Open the index.html file in your web browser.</li>
+  <li>You can pause eye movement using 'Stop' button.</li>
+</ul>
