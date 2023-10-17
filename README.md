@@ -1,3 +1,4 @@
+<a name="readme-top"></a>
 # Eye Excercise
 The Eye Movement Excercise is a fun and interactive web application that demonstrates how eye movements can be controlled through user input.
 
@@ -15,3 +16,10 @@ To get started with the Eye Movement Excercise, follow these steps:
   <li>Open the index.html file in your web browser.</li>
   <li>You can pause eye movement using 'Stop' button.</li>
 </ol>
+
+### Roadmap
+- [ ] Customization Option - allow users to customise the eyes such as eyecolour,eyelashes.
+- [ ] Make eye movement more realistic and expressive.
+- [ ] Make project responsive to various screen size.
+      
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
