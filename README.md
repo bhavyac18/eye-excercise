@@ -7,6 +7,7 @@ This application features a pair of animated eyes that follow the movement of th
 
 ### Image
 <img src="https://github.com/bhavyac18/eye-excercise/assets/53191128/6c4fb02c-98be-4478-81da-3942038d8a36" width="100%" height="300px">
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### How to Run
 To get started with the Eye Movement Excercise, follow these steps:
@@ -16,6 +17,7 @@ To get started with the Eye Movement Excercise, follow these steps:
   <li>Open the index.html file in your web browser.</li>
   <li>You can pause eye movement using 'Stop' button.</li>
 </ol>
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Roadmap
 - [ ] Customization Option - allow users to customise the eyes such as eyecolour,eyelashes.
